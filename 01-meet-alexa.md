@@ -21,7 +21,7 @@ Alexa provides hands-free voice control for music and entertainment
 
 [Music & Entertainment Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2016/ALEXA/USER_GUIDE/OVERVIEW/O_MUSIC._V523847949_.jpg "Music & Entertainment") | [Link](https://www.amazon.com/b/?node=16067220011)
 
-### Voice Calls & Mesasging
+### Voice Calls & Messaging
 A new way to be together with family and friends.
 
 [Calling & Messaging Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2017/ECHO/ALEXA/05042017070182/AUG_O_C._V511308825_.jpg "Calling & Messaging") | [Link](https://www.amazon.com/b/?node=16713667011)
