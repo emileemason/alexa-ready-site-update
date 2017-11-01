@@ -1,6 +1,6 @@
 # Alexa Ready
 ## Have You Met Alexa?
-Alexa is the brain behind the All-new Echo, Echo Plus, Echo Dot, Echo Spot, Echo Show, Echo Look, and other Alexa devices. Using Alexa is as simple as asking a question—just ask, and Alexa will respond instantly. Alexa lives in the cloud so it’s always getting smarter, and updates are delivered to your devices automatically. Here are some of the ways Alexa can make your life easier and more fun.
+Alexa is an intelligent personal assistant created by Amazon. She is the brain behind all of the Echo devices, including the dot, show, and spot. She is also compatible with a lot of other devices. Using Alexa is pretty simple. Ask her a question, and she will respond instantly. Alexa lives in the cloud which means she is continually being updated and getting smarter. Check out some of the ways that Alexa can help simplify your life and add a little fun as well. 
 
 [All-new Echo Link](https://www.amazon.com/dp/product/B06XCM9LJ4)
 
@@ -17,47 +17,47 @@ Alexa is the brain behind the All-new Echo, Echo Plus, Echo Dot, Echo Spot, Echo
 [Alexa Devices Link](https://www.amazon.com/b/?node=9818047011)
 
 ### Entertainment & Music
-Alexa provides hands-free voice control for music and entertainment
+Listen to music from your favorite services like Amazon Music, Pandora, Spotify, iHeartRadio, and TuneIn. Get hands-free voice control for all of your music and entertainment needs with the help of Alexa.
 
 [Music & Entertainment Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2016/ALEXA/USER_GUIDE/OVERVIEW/O_MUSIC._V523847949_.jpg "Music & Entertainment") | [Link](https://www.amazon.com/b/?node=16067220011)
 
 ### Voice Calls & Messaging
-A new way to be together with family and friends.
+Alexa helps you stay connected with friends and family.
 
 [Calling & Messaging Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2017/ECHO/ALEXA/05042017070182/AUG_O_C._V511308825_.jpg "Calling & Messaging") | [Link](https://www.amazon.com/b/?node=16713667011)
 
 ### Info & Up-to-Date News
-Alexa can help you stay conneced to the news that matters most to you.
+What news matters most to you? Alexa will make sure you are up-to-date on what’s happening. 
 
 [News & Information Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2016/ALEXA/USER_GUIDE/NEWS/O_NEWS_v2._V531519505_.jpg "News & Information") | [Link](https://www.amazon.com/b/?node=16067222011)
 
 ### Got a Question? Just Ask.
-Alexa can get you answers - fast
+Want an answer fast? Just ask Alexa.
 
 [Questions & Answers Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2016/ALEXA/USER_GUIDE/OVERVIEW/O_NEWS._V523848317_.jpg "Questions & Answers") | [Link](https://www.amazon.com/b/?node=16067223011)
 
 ### Get Extra Assistance Around the House
 
-Alexa makes your home life easier - so you can spend more time on the things that matter to you.
+Spend more time doing things that matter most to you, and let Alexa help you with the rest.
 
 [Help Around The House Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2016/ALEXA/USER_GUIDE/OVERVIEW/O_HRH._V523847949_.jpg "Help Around The House") | [Link](https://www.amazon.com/b/?node=16067224011)
 
 ### Smart Home
-Alexa lets you control smart-home devices such as lights, switches, thermostats, and more.
+Control lights, switches, thermostats, and much more with Alexa. Your home just got a whole lot smarter.
 
 [Smart Home Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2016/ALEXA/USER_GUIDE/OVERVIEW/O_SH._V523847949_.jpg "Smart Home") | [Link](https://www.amazon.com/b/?node=16067225011)
 
 ### Fun & Games
-Lighten up with Alexa
+Relax, unwind, and have fun with Alexa. 
 
 [Fun & Games Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2016/ALEXA/USER_GUIDE/OVERVIEW/O_GAMES._V523847949_.jpg "Fun & Games") | [Link](https://www.amazon.com/b/?node=16067226011)
 
 ### Shopping
-Stock up on the stuff you need
+Keep your house filled with the stuff you need most. 
 
 [Shopping Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2017/ECHO/ALEXA/05042017070182/AUG_O_Shop._V511308361_.jpg "Shopping") | [Link](https://www.amazon.com/b/?node=16067227011)
 
 ### Learn More About Alexa Skills
-Personalize your Alexa device experience.
+Completely personalize your Alexa experience. 
 
 [Alexa Skills Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2016/ALEXA/USER_GUIDE/NAV/AUG_NAV_SKILLS._V525171258_.png "Alexa Skills") | [Link](https://www.amazon.com/b/?node=16067228011)
