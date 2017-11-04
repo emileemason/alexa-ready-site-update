@@ -1,5 +1,5 @@
 ### Control Your World with the Power of Your Voice
-[Picture of Alexa Family](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2016/ALEXA/USER_GUIDE/DEVDANNER1._V522438150_.jpg "Voice Control Your World") | [Link](https://www.amazon.com/b/?node=9818047011)
+[Picture of Alexa Family](http://alexaready.com/wp-content/uploads/piotr-cichosz-414542.jpg "Control Your World with the Power of Your Voice ") | [Link](https://www.amazon.com/b/?node=9818047011)
 
 Amazon Alexa functionality is not available on all devices. If you can’t find what you are looking for, try Alexa Help.
 
