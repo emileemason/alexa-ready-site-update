@@ -19,28 +19,28 @@ Alexa is an intelligent personal assistant created by Amazon. She is the brain b
 ### Entertainment & Music
 Listen to music from your favorite services like Amazon Music, Pandora, Spotify, iHeartRadio, and TuneIn. Get hands-free voice control for all of your music and entertainment needs with the help of Alexa.
 
-[Music & Entertainment Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2016/ALEXA/USER_GUIDE/OVERVIEW/O_MUSIC._V523847949_.jpg "Music & Entertainment") | [Link](https://www.amazon.com/b/?node=16067220011)
+[Entertainment & Music Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2016/ALEXA/USER_GUIDE/OVERVIEW/O_MUSIC._V523847949_.jpg "Entertainment & Music") | [Link](https://www.amazon.com/b/?node=16067220011)
 
 ### Voice Calls & Messaging
 Alexa helps you stay connected with friends and family.
 
-[Calling & Messaging Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2017/ECHO/ALEXA/05042017070182/AUG_O_C._V511308825_.jpg "Calling & Messaging") | [Link](https://www.amazon.com/b/?node=16713667011)
+[Voice Calls & Messaging Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2017/ECHO/ALEXA/05042017070182/AUG_O_C._V511308825_.jpg "Voice Calls & Messaging") | [Link](https://www.amazon.com/b/?node=16713667011)
 
 ### Info & Up-to-Date News
 What news matters most to you? Alexa will make sure you are up-to-date on what’s happening. 
 
-[News & Information Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2016/ALEXA/USER_GUIDE/NEWS/O_NEWS_v2._V531519505_.jpg "News & Information") | [Link](https://www.amazon.com/b/?node=16067222011)
+[Info & Up-to-Date News Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2016/ALEXA/USER_GUIDE/NEWS/O_NEWS_v2._V531519505_.jpg "Info & Up-to-Date News") | [Link](https://www.amazon.com/b/?node=16067222011)
 
 ### Got a Question? Just Ask.
 Want an answer fast? Just ask Alexa.
 
-[Questions & Answers Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2016/ALEXA/USER_GUIDE/OVERVIEW/O_NEWS._V523848317_.jpg "Questions & Answers") | [Link](https://www.amazon.com/b/?node=16067223011)
+[Q&As Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2016/ALEXA/USER_GUIDE/OVERVIEW/O_NEWS._V523848317_.jpg "Q&As") | [Link](https://www.amazon.com/b/?node=16067223011)
 
 ### Get Extra Assistance Around the House
 
 Spend more time doing things that matter most to you, and let Alexa help you with the rest.
 
-[Help Around The House Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2016/ALEXA/USER_GUIDE/OVERVIEW/O_HRH._V523847949_.jpg "Help Around The House") | [Link](https://www.amazon.com/b/?node=16067224011)
+[Extra Assistance Around the House Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2016/ALEXA/USER_GUIDE/OVERVIEW/O_HRH._V523847949_.jpg "Extra Assistance Around the House") | [Link](https://www.amazon.com/b/?node=16067224011)
 
 ### Smart Home
 Control lights, switches, thermostats, and much more with Alexa. Your home just got a whole lot smarter.
