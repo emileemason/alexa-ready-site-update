@@ -58,6 +58,7 @@ Do you want Alexa to read you a book from your Kindle? She can do that using the
 
 [Learn More Link](https://www.amazon.com/gp/help/customer/display.html/?nodeId=201975870)
 - “Alexa, read The Great Gatsby from Kindle.”
+- "Alexa, read my Kindle book."
 
 [Kindle Books Image](https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2016/ALEXA/USER_GUIDE/MUSIC/eBooks._V523590022_.jpg)
 
