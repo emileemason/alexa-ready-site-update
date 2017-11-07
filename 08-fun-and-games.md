@@ -1,31 +1,33 @@
 ## Fun & Games
-Lighten up with Alexa
+Relax, unwind, and have fun with Alexa.
 
 [Fun & Games Image](https://images-na.ssl-images-amazon.com/images/G/01//kindle/merch/2016/ALEXA/USER_GUIDE/FUN_GAMES/funGames.jpg "Fun & Games")
 
-### Game night help
-Hosting a game night? Whether your crew is into cards, board games, or role-playing, Alexa can help. Just ask:
+### Game Night
+Do you love having game nights at your house? Whether your friends like playing cards, board games, or role-playing, Alexa can help you have fun. Just ask:
+- "Alexa, play Bingo."
+- "Alexa, open Geography Trivia."
 - "Alexa, pick a card."
-- "Alexa, flip a coin."
-- "Alexa, roll a 12-sided die."
 
-### Jokes & fun stuff
-When it comes to helping you, Alexa is very serious. The rest of the time… well, just ask:
-- "Alexa, good morning."
+
+### Jokes & Other Fun Activities
+Alexa takes being your personal assistant very seriously, but who doesn’t like having fun sometimes?
 - "Alexa, tell me a joke."
-- "Alexa, rap for me."
+- "Alexa, see you later alligator."
+- "Alexa, are you my friend?"
+
 
 ### Game Skills
-Play a new round of Jeopardy! every weekday with the Jeopardy skill for Alexa. Or for an Alexa update on a clasic, try the Twenty Questions Skill
+Test your Jeopardy skills with a new round every weekday. You can also play 20 Questions with Alexa. 
 
 [Jeopardy Link](https://www.amazon.com/dp/B019G0M2WS)
 
 [20 Questions Link](https://www.amazon.com/dp/B01C3CO48G)
 
-To get started, enable these skills by saying, “Alexa, enable Jeopardy! skill” or “Alexa, enable Twenty Questions skill.” Then just ask:
+First, you need to enable these two skills. Just tell Alexa, “Alexa, enable Jeopardy! skill.” or “Alexa, enable 20 Questions skill.” Then you are ready to start playing!
 - "Alexa, play Jeopardy!"
 - "Alexa, play Twenty Questions."
 
-There are thousands of skills in 20 categories that you can use to personalize your device experience. Discover and enable Alexa skills.
+Alexa has thousands of skills in over 20 categories. Enable the skills that interest you to completely customize your device experience. 
 
 [Alexa Skills Link](https://www.amazon.com/b/?node=13727921011)
